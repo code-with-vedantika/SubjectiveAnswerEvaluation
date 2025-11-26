@@ -45,10 +45,11 @@ The Subjective Answer Evaluation System is an AI-powered solution designed to au
 
 ---
 
-## 📷 Screenshots (Optional)
-(Add images like UI, output, architecture)
+## 📷 Screenshots
+<img width="870" height="497" alt="image" src="https://github.com/user-attachments/assets/e9320c8c-67fb-4e02-a422-7f6cfddbd5ae" />
+
 
 ---
 
-## 📂 Folder Structure
+
 
