@@ -33,6 +33,7 @@ The Subjective Answer Evaluation System is an AI-powered solution designed to au
 | ML Tools | TensorFlow, Keras |
 | Frontend | HTML, CSS, JavaScript |
 | Deployment | VS Code / Google Colab |
+|Backend| SQLLITE|
 
 ---
 
